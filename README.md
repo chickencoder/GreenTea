@@ -29,6 +29,7 @@ Now just run your code in node and navigate to http://localhost:8080 and there i
 
 | Features          | Implemented? |
 | ----------------- | ------------ |
-| GET/POST Routing  | Yes          |
+| Get Routing       | Yes          |
+| Post Routing      | Yes          |
 | Templating Module | Yes. TBF.    |
 | Markdown Rendering| Yes.         |
