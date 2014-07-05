@@ -7,7 +7,7 @@ Here is a quick example of Green Tea in action:
 
 ```javascript
 
-var tea = require('./GreenTea/greentea.js);
+var tea = require('./GreenTea/greentea.js');
 
 var app = function(request, response){
   tea.route('/markdown', 'GET', function(){
