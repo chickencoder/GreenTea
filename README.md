@@ -24,3 +24,11 @@ tea.HTTPServer('localhost', 8080, app);
 ```
 
 Now just run your code in node and navigate to http://localhost:8080 and there it is!
+
+## Feautures
+
+| Features          | Implemented? |
+| ----------------- | ------------ |
+| GET/POST Routing  | Yes          |
+| Templating Module | Yes. TBF.    |
+| Markdown Rendering| Yes.         |
