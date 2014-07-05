@@ -31,6 +31,7 @@ Now just run your code in node and navigate to http://localhost:8080 and there i
 | ----------------- | ------------ |
 | Get Routing       | Yes          |
 | Post Routing      | Yes          |
+| Dynamic Routing   | No           |
 | Templating Module | Only static  |
 | Markdown Rendering| Yes          |
 | Database API      | No           |
